@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tanie Dranie</string>
+    <string name="youtube_link"><a href="http://www.youtube.com/watch?v=MGqmcMiolwM" style="color:#0000FF">KSP \"Tanie Dranie\"\n\t\t\tYouTube</a></string>
+    <string name="tanie_dranie">Tanie Dranie</string>
+</resources>
